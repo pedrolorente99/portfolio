@@ -28,6 +28,3 @@ Técnico informático especializado en ciberseguridad
 - *Perfil de TryHackMe: próximamente*
 - *Perfil de Hack The Box: próximamente*
 
-## 📄 Certificados
-
-PDFs adjuntos en el repositorio.
