@@ -7,15 +7,19 @@ Técnico informático especializado en ciberseguridad.
 
 | Certificación | Entidad | Fecha | Verificación |
 |---|---|---|---|
-| Google Cybersecurity Certificate | Coursera | 03/2025 | [Ver credencial](https://...) |
-| Introduction to Cybersecurity | Cisco Networking Academy | 01/2025 | [Ver credencial](https://...) |
+| Introduction to Cybersecurity | Cisco | 10/2025 | [Certificado](https://www.credly.com/badges/e14df1e2-47cc-44dd-9b0e-ed86843b0879/public_url) |
+| Fortinet Certified Associate Cybersecurity | Fortinet | 10/2025 - 10/2027 | [Certificado](https://www.credly.com/badges/2dfc916a-20b5-4905-a70a-228ce62d26d6/public_url) |
+| Fortinet NSE 3 Certified in Cybersecurity | Cisco | 10/2025 - 10/2027 | [Certificado](https://www.credly.com/badges/ccc04b4f-1181-45df-beb6-74a33d380023/public_url) |
+| Fortinet FortiGate 7.6 Operator | Cisco | 10/2025 | [Certificado](https://www.credly.com/badges/33a967e7-91ef-4939-86d3-4f61e0ec06d9/public_url) |
+
 
 ## 💻 Programación
 
 | ... |
 
+
 ## 🧪 Prácticas y laboratorios
-- [Perfil de TryHackMe](https://tryhackme.com/p/usuario)
+- [Perfil de TryHackMe](https://...)
 - [Perfil de Hack The Box](https://...)
 
 ## 📄 Certificados
