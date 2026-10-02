@@ -1,13 +1,4 @@
-# 🎓 Pedro Lorente Valenzuela
-
-Técnico informático especializado en ciberseguridad
-
-📍 Barcelona
-
-💼 [LinkedIn](https://www.linkedin.com/in/pedro-lorente-v)
-
-✉️ pedro.lv10@gmail.com
-
+# 📁  Portfolio
 
 ## 🔐 Ciberseguridad
 
