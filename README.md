@@ -21,6 +21,6 @@ Portfolio con mis certificaciones y laboratorios realizados
 
 ## 🧪 Prácticas y laboratorios
 
-- *Perfil de TryHackMe: próximamente*
+- *Perfil de TryHackMe: (https://tryhackme.com/p/pedro.lv10)
 - *Perfil de Hack The Box: próximamente*
 
