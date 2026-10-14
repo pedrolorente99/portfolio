@@ -12,13 +12,6 @@ Portfolio con mis certificaciones y laboratorios realizados
 | Fortinet FortiGate 7.6 Operator | Fortinet | 10/2025 | [Certificado](https://www.credly.com/badges/33a967e7-91ef-4939-86d3-4f61e0ec06d9/public_url) |
 
 
-## 💻 Programación
-
-| Certificación | Entidad | Fecha | Verificación |
-|:---|:---:|:---:|:---:|
-| *Próximamente* | - | - | - |
-
-
 ## 🧪 Prácticas y laboratorios
 
 - *Perfil de TryHackMe: (https://tryhackme.com/p/pedro.lv10)
